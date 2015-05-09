@@ -1,0 +1,11 @@
+<script>$(document).ready(function(){$("body").hide();})</script>
+
+
+<!-- <context-param>
+		<param-name>defaultHtmlEscape</param-name>
+		<param-value>true</param-value>
+	
+	</context-param> -->
+	
+	
+<%-- <c:out value="${user.name}"/> --%>
